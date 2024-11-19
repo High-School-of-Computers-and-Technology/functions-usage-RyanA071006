@@ -16,7 +16,7 @@ moneyMade(sold) => {return 20 * sold}
 ****
 This function returns some number so I can use that output in such manner
 
-moneyMade(sell(10))
+consloe.log(moneyMade(sell(10))
 
 do something like this.
 
